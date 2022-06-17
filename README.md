@@ -6,6 +6,7 @@
 A simple E-commerce web application aiming to provide a secure and interactive platform. This web app contains a range of core components implemented from scrach 
 such as login/registration, search functionality, shopping cart, admin functionality handling users and products, etc. 
 This project was part on an assignment focusing on security aspects like prepared statements, secure form submission, handling session cookies, etc.
+* Access live website here: http://andreiioanb4889.ccacolchester.com/web3/index.php
 
 ### Database design - Entity Relationship Diagram 
 
