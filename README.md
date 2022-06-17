@@ -12,14 +12,14 @@ This project was part on an assignment focusing on security aspects like prepare
 *MySQLi is used to enable access and to facilitate data manipulation contained in the database.
 
 <div style="text-align: center;">
-    <img width="850" height="350" src="./screenshots/ERD.jpg">
+    <img width="650" height="280" src="./screenshots/ERD.jpg">
 </div>
 
 ### Admin page
 
 *The UML below displays the classes, including their components (properties and methods) and the relationships between them.
 <div style="text-align: center;">
-    <img width="950" height="550" src="./screenshots/Menu.jpg">
+    <img width="950" height="420" src="./screenshots/Menu.jpg">
 </div>
 
 ## Getting Started
